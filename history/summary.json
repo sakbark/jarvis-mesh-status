@@ -16,7 +16,7 @@
     "timeMonth": 497,
     "timeYear": 497,
     "dailyMinutesDown": {
-      "2026-04-20": 1540,
+      "2026-04-20": 1732,
       "2026-04-19": 2880,
       "2026-04-18": 1104
     }
@@ -26,19 +26,19 @@
     "url": "https://jarvis.tail75e75.ts.net/speak",
     "icon": "https://icons.duckduckgo.com/ip3/jarvis.tail75e75.ts.net.ico",
     "slug": "jarvis-speak-endpoint",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 125,
-    "timeDay": 85,
-    "timeWeek": 125,
-    "timeMonth": 125,
-    "timeYear": 125,
+    "status": "up",
+    "uptime": "96.66%",
+    "uptimeDay": "93.37%",
+    "uptimeWeek": "96.66%",
+    "uptimeMonth": "96.66%",
+    "uptimeYear": "96.66%",
+    "time": 143,
+    "timeDay": 141,
+    "timeWeek": 143,
+    "timeMonth": 143,
+    "timeYear": 143,
     "dailyMinutesDown": {
-      "2026-04-20": 0
+      "2026-04-20": 96
     }
   },
   {
@@ -46,19 +46,19 @@
     "url": "https://jarvis.tail75e75.ts.net/messages",
     "icon": "https://icons.duckduckgo.com/ip3/jarvis.tail75e75.ts.net.ico",
     "slug": "jarvis-messages-endpoint",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 125,
-    "timeDay": 84,
-    "timeWeek": 125,
-    "timeMonth": 125,
-    "timeYear": 125,
+    "status": "up",
+    "uptime": "96.66%",
+    "uptimeDay": "93.36%",
+    "uptimeWeek": "96.66%",
+    "uptimeMonth": "96.66%",
+    "uptimeYear": "96.66%",
+    "time": 130,
+    "timeDay": 115,
+    "timeWeek": 130,
+    "timeMonth": 130,
+    "timeYear": 130,
     "dailyMinutesDown": {
-      "2026-04-20": 0
+      "2026-04-20": 96
     }
   },
   {
@@ -78,7 +78,7 @@
     "timeMonth": 126,
     "timeYear": 126,
     "dailyMinutesDown": {
-      "2026-04-20": 770,
+      "2026-04-20": 866,
       "2026-04-19": 1440,
       "2026-04-18": 552
     }
@@ -100,7 +100,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-20": 1540,
+      "2026-04-20": 1732,
       "2026-04-19": 2880,
       "2026-04-18": 1104
     }
@@ -147,11 +147,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.notion.so.ico",
     "slug": "notion",
     "status": "up",
-    "uptime": "98.30%",
+    "uptime": "98.36%",
     "uptimeDay": "96.74%",
-    "uptimeWeek": "98.30%",
-    "uptimeMonth": "98.30%",
-    "uptimeYear": "98.30%",
+    "uptimeWeek": "98.36%",
+    "uptimeMonth": "98.36%",
+    "uptimeYear": "98.36%",
     "time": 515,
     "timeDay": 426,
     "timeWeek": 515,
